@@ -1,5 +1,4 @@
-﻿using System.Security.AccessControl;
-using Esercizio_U4_S1_L4.Models;
+﻿using Esercizio_U4_S1_L4.Models;
 
 Console.BackgroundColor = ConsoleColor.White;
 Console.ForegroundColor = ConsoleColor.Black;
