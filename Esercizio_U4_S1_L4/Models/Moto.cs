@@ -20,3 +20,4 @@ namespace Esercizio_U4_S1_L4.Models {
             Console.WriteLine($"Catena Moto: {CatenaMoto}");
         }
     }
+}
