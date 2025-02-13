@@ -1,7 +1,7 @@
 ﻿using Esercizio_U4_S1_L4.Interface;
 
 namespace Esercizio_U4_S1_L4.Models {
-    public partial class Veicolo : IVeicolo {
+    public abstract partial class Veicolo : IVeicolo {
         protected string Targa {
             get; set;
         }
